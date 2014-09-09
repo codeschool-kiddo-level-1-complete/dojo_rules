@@ -5,3 +5,4 @@ deadly skills:
 *Ruby
 *Python
 *Io
+*Killing history using git rebase
