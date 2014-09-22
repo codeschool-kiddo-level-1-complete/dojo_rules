@@ -5,4 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
+* sql injections
+* fat models
+* another one
+* another two
 
