@@ -7,8 +7,4 @@ dojo Rules
 * Respect your opponents
 * Coffee
 * Most Sensei's should be respected
-<<<<<<< HEAD
-
-=======
-* no coffe in the Dojo
->>>>>>> 226b2f92c3604732b633d479c60847cb5b59d084
+* no coffee in the dojo
