@@ -1,1 +1,5 @@
-I love Ruby and JavaScript!
+My name is Peleke.
+
+Electives
+*Git
+*Python
