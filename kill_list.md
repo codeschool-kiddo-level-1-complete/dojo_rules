@@ -1,4 +1,4 @@
-Bad Coding practices
+Bad Coding Practices
 =========
 * Unused code
 * Functions with side effects
