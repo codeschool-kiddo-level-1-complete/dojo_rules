@@ -5,3 +5,4 @@ I love Ruby and JavaScript!
 * ThreeJS
 * PHP
 * MySQL
+* Killing history using git rebase
