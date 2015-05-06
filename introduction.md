@@ -1,4 +1,1 @@
-I love NOSQL and JavaScript!
-
-* NoSQL
-* Java Script
+I love Ruby and JavaScript!
