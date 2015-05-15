@@ -14,3 +14,5 @@ Unformatted code
 Repeated code blocks
 Bad variable names
 >>>>>>> v1.0.1
+
+bad boy code
