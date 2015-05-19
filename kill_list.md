@@ -16,3 +16,5 @@ Bad variable names
 >>>>>>> v1.0.1
 
 bad boy code
+
+add another line
