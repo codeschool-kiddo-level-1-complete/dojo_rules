@@ -1,2 +1,2 @@
 I love Ruby and JavaScript!
-* git, javascript, compass, sass
+* git, javascript, compass, sass, algo
