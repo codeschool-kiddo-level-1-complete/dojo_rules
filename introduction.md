@@ -1,3 +1,3 @@
 I enjoy learning more about 
-*HTML/CSS
-*Javascript MVC frameworks
+HTML/CSS
+Javascript MVC frameworks
