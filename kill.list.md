@@ -3,5 +3,3 @@
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Too many hotfixes
-* Code is confusing
