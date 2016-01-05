@@ -2,3 +2,4 @@
 * JavaScript
 * Ruby
 * Ruby on Rails
+* Python
