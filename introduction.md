@@ -1,1 +1,8 @@
-I love Ruby and JavaScript!
+* Git
+* HTML
+* CSS
+* Javascript
+* XAML
+* XML
+* SVG
+* etc, etc, etc.
