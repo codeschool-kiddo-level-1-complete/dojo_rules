@@ -5,4 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* resolve a new issue
+* resolve a new issue fixes #4
