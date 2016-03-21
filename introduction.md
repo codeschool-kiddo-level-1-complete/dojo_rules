@@ -1,1 +1,4 @@
-I love Ruby and JavaScript!
+I love:
+* Python
+* JavaScript
+* HTML
