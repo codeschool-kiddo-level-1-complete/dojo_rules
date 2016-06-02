@@ -1,1 +1,5 @@
-My name is Ben McOsker. I love Ruby and JavaScript!
+I love Ruby and JavaScript!
+Skills:
+* Git
+* JavaScript
+* Ruby
