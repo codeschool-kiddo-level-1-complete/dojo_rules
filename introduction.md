@@ -1,1 +1,1 @@
-I love Ruby and JavaScript!
+My name is Ben McOsker. I love Ruby and JavaScript!
