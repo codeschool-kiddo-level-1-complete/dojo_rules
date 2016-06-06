@@ -1,2 +1,2 @@
 I love Ruby and JavaScript!
-yeah!
+Killing history using git rebase
