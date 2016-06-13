@@ -1,8 +1,9 @@
-deadly skills
+*deadly skills
 
-biruk
+*biruk
 
-lemu
+*lemu
+
 
 *Git 
 *JavaScript
