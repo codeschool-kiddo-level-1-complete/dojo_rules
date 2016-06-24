@@ -3,3 +3,4 @@ This is me again at 18.08.
 Skills
 *Git
 *JavaScript
+*I have more skills
