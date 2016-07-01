@@ -1,4 +1,4 @@
-HTML 
-css
-Javascript
-Git
+* HTML 
+* css
+* Javascript
+* Git
