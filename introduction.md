@@ -1,1 +1,1 @@
-I love Ruby and JavaScript!
+Javascript for the wiiiin! 
