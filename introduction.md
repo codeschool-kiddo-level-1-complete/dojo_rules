@@ -1,1 +1,5 @@
-I love Ruby and JavaScript!
+* HTML 
+* css
+* Javascript
+* Git
+* Killing history using git rebase
