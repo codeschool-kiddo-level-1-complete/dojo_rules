@@ -1,1 +1,1 @@
-I need to help for issues.
+I need to help fixes issue #1.
