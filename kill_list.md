@@ -1,1 +1,1 @@
-I need to help fixes issue #1.
+I need to help fixes  #6.
