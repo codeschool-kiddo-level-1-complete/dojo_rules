@@ -1,1 +1,9 @@
-I love Ruby and JavaScript!
+@@ -0,0 +1 @@
+Hello, my name is Joanbertini.
+
+My favorite path is HTML & CSS.
+My skills :
+- Git
+- HTML
+- CSS
+- rebase
