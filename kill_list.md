@@ -6,3 +6,4 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Copy and paste from internet without knowing what it does
+* Other aggravations
