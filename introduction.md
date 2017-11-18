@@ -3,3 +3,4 @@ I love Ruby and JavaScript!
 * Killing history using git rebase
 * Ruby
 * JavaScript
+* Python
