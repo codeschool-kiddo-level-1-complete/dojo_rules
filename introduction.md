@@ -2,4 +2,4 @@
 Skills:
 * Git
 * JavaScript
-* PHP
+* PHP*My favorite path is GIT for now
