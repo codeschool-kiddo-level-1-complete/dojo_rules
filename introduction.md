@@ -1,3 +1,3 @@
 I love Ruby and JavaScript!
-Android
-C#
+*Android
+*C#
